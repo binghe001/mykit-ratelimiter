@@ -23,7 +23,7 @@
 
         <jdk.version>1.8</jdk.version>
         <lombok.version>1.16.10</lombok.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <aspectj.version>1.8.5</aspectj.version>
         <slf4j.version>1.7.2</slf4j.version>
         <fastjson.version>1.2.59</fastjson.version>
