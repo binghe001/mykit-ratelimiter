@@ -26,7 +26,7 @@
         <spring.version>4.3.8.RELEASE</spring.version>
         <aspectj.version>1.8.5</aspectj.version>
         <slf4j.version>1.7.2</slf4j.version>
-        <fastjson.version>1.2.59</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <redis.version>2.9.0</redis.version>
         <mykit.cache.version>1.0.0-SNAPSHOT</mykit.cache.version>
         <servlet.version>3.0.1</servlet.version>
